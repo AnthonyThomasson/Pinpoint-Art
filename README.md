@@ -1,0 +1,3 @@
+# Pinpoint-Art
+
+	This website was made using the ASP.NET platform. The site allows users to browse and purchase art pieces. There is a fully functional search engine and users can favorite items and add them to a shopping cart for purchase. The CSS framework Bootstrap was utilized to design a large portion of the front-end design. Bootstrap helped allow the website to be functional across a wide range of platforms such as phones, tablets, and desktop computers within the time constraints given.  The backend of the website utilized a MySQL database, and was designed using a Three Layer Model implemented within the ASP.NET framework.
